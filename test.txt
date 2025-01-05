@@ -1,8 +1,5 @@
 hello!
 Edited
 Added a very important change
-<<<<<<< HEAD
 Added a cool feature
-=======
 Hey,we fixed a bug
->>>>>>> c4a2184ec92c96738532358ccad71dcf8705516c
